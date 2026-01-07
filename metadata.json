@@ -1,0 +1,5 @@
+{
+  "name": "Sistema de Gestão de Estoque protótipo",
+  "description": "Um sistema robusto de controle de estoque com níveis de acesso, movimentações em lote, relatórios financeiros e integração com Supabase.",
+  "requestFramePermissions": []
+}
